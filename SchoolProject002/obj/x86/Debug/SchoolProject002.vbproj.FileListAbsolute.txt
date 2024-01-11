@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\bin\Debug\SchoolProject002.exe
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\bin\Debug\SchoolProject002.pdb
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\bin\Debug\SchoolProject002.xml
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.exe
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.xml
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.pdb
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.frmLoading.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\bin\Debug\SMSProjectDB2.mdf
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\bin\Debug\SMSProjectDB2_log.ldf
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.AboutBox1.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.frmAddStudent.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\obj\x86\Debug\SchoolProject002.MainFrm.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject002\SchoolProject002\bin\Debug\SchoolProject002.exe.config
